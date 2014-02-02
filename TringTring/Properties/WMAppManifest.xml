@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{abdc6702-d64a-4bcb-902a-fc7b812800b3}" Title="TringTring" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="TringTring author" Description="Sample description" Publisher="TringTring" PublisherID="{244ea5ad-ad04-40d0-b7c6-804edd116e5b}">
+  <App xmlns="" ProductID="{1151db9f-29c6-4e51-9101-8d2d59a9beec}" Title="TringTring" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="TringTring author" Description="Sample description" Publisher="TringTring" PublisherID="{a5f25040-99a1-4fd1-928e-cfbfbdeaa53d}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
